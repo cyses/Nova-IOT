@@ -1,0 +1,6 @@
+{
+    "require": {
+        "freearhey/wikidata": "^2.1",
+        "php-curl-class/php-curl-class": "^8.0"
+    }
+}
